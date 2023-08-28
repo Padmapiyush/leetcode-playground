@@ -1,5 +1,5 @@
 #  26. Remove Duplicates from Sorted Array
-### Find the solution below (here)
+### Find the solution below ([here](https://github.com/Padmapiyush/leetcode-playground/blob/main/26-Remove_Duplicates_from_Sorted_Array.md#solution-))
 Given an integer array `nums` sorted in non-decreasing order, remove the duplicates in place such that each unique element appears only once. The relative order of the elements should be kept the same. _Then return the number of unique elements in_ `nums`.
 
 Consider the number of unique elements of `nums` to be `k`, to get accepted, you need to do the following things:
