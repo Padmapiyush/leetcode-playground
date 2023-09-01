@@ -22,6 +22,7 @@ class Solution {
    | 1 | 2 |
    | 2 | 2 |
 but because we are processing every number here in the list with extra space, it will return **Time Complexity**: `O(n)` and **Space Complexity**: `O(n)`
+
 2. Using Sorting Technique
    | 1 | 1 | 2 | 2 | 4 |
    |---|---|---|---|---|
